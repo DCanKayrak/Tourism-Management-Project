@@ -1,0 +1,28 @@
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.DataAccess\bin\Debug\Turizm.DataAccess.dll.config
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.DataAccess\bin\Debug\Turizm.DataAccess.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.DataAccess\bin\Debug\Turizm.DataAccess.pdb
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.DataAccess\bin\Debug\Turizm.Entities.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.DataAccess\bin\Debug\Turizm.Entities.pdb
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.DataAccess\obj\Debug\Turizm.DataAccess.csproj.AssemblyReference.cache
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.DataAccess\obj\Debug\Turizm.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.DataAccess\obj\Debug\Turizm.DataAccess.csproj.CopyComplete
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.DataAccess\obj\Debug\Turizm.DataAccess.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.DataAccess\obj\Debug\Turizm.DataAccess.pdb
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.DataAccess\bin\Debug\Turizm.DataAccess.dll.config
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.DataAccess\bin\Debug\Turizm.DataAccess.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.DataAccess\bin\Debug\Turizm.DataAccess.pdb
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.DataAccess\bin\Debug\Turizm.Entities.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.DataAccess\bin\Debug\Turizm.Entities.pdb
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.DataAccess\obj\Debug\Turizm.DataAccess.csproj.AssemblyReference.cache
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.DataAccess\obj\Debug\Turizm.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.DataAccess\obj\Debug\Turizm.DataAccess.csproj.CopyComplete
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.DataAccess\obj\Debug\Turizm.DataAccess.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.DataAccess\obj\Debug\Turizm.DataAccess.pdb

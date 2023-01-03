@@ -1,0 +1,60 @@
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\bin\Debug\Turizm.UI.exe.config
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\bin\Debug\Turizm.UI.exe
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\bin\Debug\Turizm.UI.pdb
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\obj\Debug\Turizm.UI.csproj.AssemblyReference.cache
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\obj\Debug\Turizm.UI.Form1.resources
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\obj\Debug\Turizm.UI.Properties.Resources.resources
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\obj\Debug\Turizm.UI.csproj.GenerateResource.cache
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\obj\Debug\Turizm.UI.csproj.CoreCompileInputs.cache
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\obj\Debug\Turizm.UI.exe
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\obj\Debug\Turizm.UI.pdb
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\obj\Debug\Turizm.UI.MainMenu.resources
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\bin\Debug\Turizm.Business.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\bin\Debug\Turizm.DataAccess.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\bin\Debug\Turizm.Entities.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\bin\Debug\EntityFramework.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\bin\Debug\Turizm.Business.pdb
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\bin\Debug\Turizm.DataAccess.pdb
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\bin\Debug\Turizm.DataAccess.dll.config
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\bin\Debug\Turizm.Entities.pdb
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\bin\Debug\EntityFramework.xml
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\obj\Debug\Turizm.UI.csproj.CopyComplete
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\bin\Debug\Turizm.Utils.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\bin\Debug\Turizm.Utils.pdb
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.UI\obj\Debug\Turizm.UI.ForgotPasswordForm.resources
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\Turizm.UI.exe.config
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\Turizm.UI.exe
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\Turizm.UI.pdb
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\EntityFramework.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\Turizm.Business.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\Turizm.DataAccess.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\Turizm.Entities.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\Turizm.Utils.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\Turizm.Business.pdb
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\Turizm.DataAccess.pdb
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\Turizm.DataAccess.dll.config
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\Turizm.Entities.pdb
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\Turizm.Utils.pdb
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\Turizm.Utils.dll.config
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\EntityFramework.xml
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\obj\Debug\Turizm.UI.csproj.AssemblyReference.cache
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\obj\Debug\Turizm.UI.Form1.resources
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\obj\Debug\Turizm.UI.MainMenu.resources
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\obj\Debug\Turizm.UI.Properties.Resources.resources
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\obj\Debug\Turizm.UI.csproj.GenerateResource.cache
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\obj\Debug\Turizm.UI.csproj.CoreCompileInputs.cache
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\obj\Debug\Turizm.UI.csproj.CopyComplete
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\obj\Debug\Turizm.UI.exe
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\obj\Debug\Turizm.UI.pdb
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\Turizm.mdf
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\Turizm_log.ldf
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\FluentValidation.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\FluentValidation.xml
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation - Copy\Turizm.UI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

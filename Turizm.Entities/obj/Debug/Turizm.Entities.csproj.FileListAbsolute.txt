@@ -1,0 +1,6 @@
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.Entities\bin\Debug\Turizm.Entities.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.Entities\bin\Debug\Turizm.Entities.pdb
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.Entities\obj\Debug\Turizm.Entities.csproj.AssemblyReference.cache
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.Entities\obj\Debug\Turizm.Entities.csproj.CoreCompileInputs.cache
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.Entities\obj\Debug\Turizm.Entities.dll
+C:\Users\danya\OneDrive\Masaüstü\TourismOtomation\Turizm.Entities\obj\Debug\Turizm.Entities.pdb

@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turizm.UI", "Turizm.UI\Turizm.UI.csproj", "{E64E8D5A-0D7D-4CDB-886A-DDA8EBBD0E89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turizm.DataAccess", "Turizm.DataAccess\Turizm.DataAccess.csproj", "{132EB033-5B53-4782-A3D2-162EEE7183FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turizm.Business", "Turizm.Business\Turizm.Business.csproj", "{4BE36D82-72CD-42F5-B650-28C211A10D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turizm.Entities", "Turizm.Entities\Turizm.Entities.csproj", "{8BFA784E-AEFC-4462-9CCC-80204ED41950}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turizm.Utils", "Turizm.Utils\Turizm.Utils.csproj", "{B1DB6E5B-D555-4B71-A42A-3CA00F2736D2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Turizm Otomasyonu", "Turizm Otomasyonu\Turizm Otomasyonu.vdproj", "{853CB748-2D40-4390-AD24-9C9CCCFB4437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E64E8D5A-0D7D-4CDB-886A-DDA8EBBD0E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64E8D5A-0D7D-4CDB-886A-DDA8EBBD0E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64E8D5A-0D7D-4CDB-886A-DDA8EBBD0E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64E8D5A-0D7D-4CDB-886A-DDA8EBBD0E89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{132EB033-5B53-4782-A3D2-162EEE7183FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{132EB033-5B53-4782-A3D2-162EEE7183FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{132EB033-5B53-4782-A3D2-162EEE7183FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{132EB033-5B53-4782-A3D2-162EEE7183FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE36D82-72CD-42F5-B650-28C211A10D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE36D82-72CD-42F5-B650-28C211A10D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE36D82-72CD-42F5-B650-28C211A10D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE36D82-72CD-42F5-B650-28C211A10D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BFA784E-AEFC-4462-9CCC-80204ED41950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BFA784E-AEFC-4462-9CCC-80204ED41950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BFA784E-AEFC-4462-9CCC-80204ED41950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BFA784E-AEFC-4462-9CCC-80204ED41950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1DB6E5B-D555-4B71-A42A-3CA00F2736D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DB6E5B-D555-4B71-A42A-3CA00F2736D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DB6E5B-D555-4B71-A42A-3CA00F2736D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DB6E5B-D555-4B71-A42A-3CA00F2736D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{853CB748-2D40-4390-AD24-9C9CCCFB4437}.Debug|Any CPU.ActiveCfg = Debug
+		{853CB748-2D40-4390-AD24-9C9CCCFB4437}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96F7F18E-2385-400E-844B-9BB1F2AF8A03}
+	EndGlobalSection
+EndGlobal
